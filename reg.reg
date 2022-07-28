@@ -1,0 +1,21 @@
+REGEDIT4 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\ComputerName] 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\ComputerName\ComputerName] 
+"ComputerName"="s123" 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\ComputerName\ActiveComputerName] 
+"ComputerName"="s123" 
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Control\ComputerName\ComputerName] 
+"ComputerName"="s123" 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters] 
+"NV Hostname"="s123" 
+"Hostname"="s123" 
+[HKEY_USERS\S-1-5-18\Software\Microsoft\Windows\ShellNoRoam] 
+@="s123" 
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\ComputerName\ActiveComputerName] 
+"ComputerName"="s123" 
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Tcpip\Parameters] 
+"NV Hostname"="s123" 
+"Hostname"="s123" 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon] 
+"DefaultDomainName"="s123" 
+"AltDefaultDomainName"="s123" 
