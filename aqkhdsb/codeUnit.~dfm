@@ -1,0 +1,31 @@
+object Form2: TForm2
+  Left = 584
+  Top = 383
+  Width = 197
+  Height = 136
+  Caption = 'Form2'
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Image1: TImage
+    Left = 0
+    Top = 0
+    Width = 189
+    Height = 65
+    Align = alTop
+  end
+  object BitBtn1: TBitBtn
+    Left = 56
+    Top = 72
+    Width = 75
+    Height = 25
+    Caption = #30830#23450
+    TabOrder = 0
+  end
+end
